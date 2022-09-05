@@ -9,3 +9,4 @@ document.getElementById("app").innerHTML = `
 </div>
 `;
 console.log("tehis");
+console.log("test");
